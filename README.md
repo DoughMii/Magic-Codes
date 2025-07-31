@@ -1,7 +1,5 @@
-# Magic-Codes
-A collection of elegant code snippets and hilarious bad code (Shit Codes).
-
 # Magic Codes ✨🧙‍♂️
+A collection of elegant code snippets and hilarious bad code (Shit Codes).
 
 欢迎来到 **Magic Codes**！  
 这里收集了两类代码：
